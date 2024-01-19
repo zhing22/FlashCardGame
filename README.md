@@ -6,8 +6,9 @@
 2. Enter "yarn install" in terminal
 3. Enter "yarn start" in terminal
 4. Download Expo Go on mobile device
-5. Scan the QR code with your mobile device in Expo
-   more setup details can be found at https://docs.expo.dev/get-started/expo-go/
+5. Scan the QR code with your mobile device in Expo. 
+
+More setup details can be found at https://docs.expo.dev/get-started/expo-go/
 
 ## requirements
 
